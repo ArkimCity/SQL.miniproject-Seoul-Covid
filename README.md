@@ -1,5 +1,8 @@
 # SQL-Mini-Project-Seoul-Covid
 
+## TEAM
+김재웅, 차왕현
+
 ## SQL Data
  SQL 프로젝트를 진행하려면 데이터가 있어야 합니다. [공공데이터 포탈](https://www.data.go.kr/)을 사용하여 데이터를 수집했습니다. 데이터를 API를 통해 실시간으로 Json포맷을 받는 것은 테이블을 만들려는 저희의 의도와 맞지 않다고 판단해 데이터 파일을 다운받아 sql포맷으로 변환했습니다.
 
